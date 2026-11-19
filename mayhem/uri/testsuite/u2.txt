@@ -1,0 +1,1 @@
+magnet:?xt=urn:btih:248d0a1cd08284299de78d5c1ed359bb46717d8c&dn=aria2&tr=http%3A%2F%2Ftracker1&tr=udp://t2:6969

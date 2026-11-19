@@ -1,0 +1,1 @@
+<methodCall><methodName>system.multicall</methodName><params><param><value>text</value></param><param><value><int>-7</int></value></param></params></methodCall>

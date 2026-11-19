@@ -1,0 +1,11 @@
+project: savantenvs/aria2
+target: xmlrpc
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/xmlrpc/testsuite
+
+cmds:
+  - cmd: /mayhem/mayhem/out/fuzz_xmlrpc
+    libfuzzer: true
+    timeout: 5

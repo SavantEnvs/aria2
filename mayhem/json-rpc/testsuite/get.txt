@@ -1,0 +1,1 @@
+method=aria2.getVersion&id=1&jsoncallback=cb&params=WzEsMix7ImsiOiJ2In1d

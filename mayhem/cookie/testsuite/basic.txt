@@ -1,0 +1,5 @@
+www.aria2.org
+/archives/
+k1=v1; expires=Sun, 10-Jun-2037 11:00:00 GMT; path=/; domain=.aria2.org; secure
+k2=v2; Max-Age=3600; HttpOnly
+k3=v3

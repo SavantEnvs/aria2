@@ -1,0 +1,1 @@
+ftp://ftp.example.org:21/pub/%2Fabs;type=i

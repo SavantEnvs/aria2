@@ -1,0 +1,5 @@
+example.com
+/
+a=b; expires=Thu, 01 Jan 1970 00:00:00 GMT
+c=d; expires=Wednesday, 09-Nov-99 23:12:40 GMT; path=/x
+e=f; domain=example.com; max-age=-1

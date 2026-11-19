@@ -1,0 +1,1 @@
+http://user:pass@[2001:db8::1]:8080/a/b/../c/./d%20e?q=1&r=%41#frag
